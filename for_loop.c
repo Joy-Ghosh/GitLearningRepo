@@ -6,4 +6,6 @@ void main()
     {
         printf("Joy");
     }
+    printf("Done for loop");
+    printf("while loop");
 }
